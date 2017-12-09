@@ -5,8 +5,8 @@ LIC_FILES_CHKSUM = "file://alpha.cpp;beginline=3;endline=22;md5=6665e479f71feb92
 
 PV = "1.10+git${SRCPV}"
 
-SRCREV = "52e7d93c5947f72380521116c05d97c528863ba8"
-SRC_URI = "git://github.com/OpenELEC/libsquish.git;protocol=https"
+SRCREV = "2ab79578fe456afd1595a52a58c03fe9484cef0c"
+SRC_URI = "git://github.com/Cavewhere/squish.git;protocol=https"
 
 S = "${WORKDIR}/git"
 
